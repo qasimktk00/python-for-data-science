@@ -1,0 +1,6 @@
+,man,true,Unnamed: 2,Southampton,no,false
+0,woman,False,C,Cherbourg,yes,False
+1,woman,False,,Southampton,yes,True
+2,woman,False,C,Southampton,yes,False
+3,man,True,,Southampton,no,True
+4,man,True,,Queenstown,no,True

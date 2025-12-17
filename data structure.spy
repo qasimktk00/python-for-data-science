@@ -1,0 +1,25 @@
+food = ["dahi bhallay", "biryani", "Dal", "samosa", "shami", "palak paneer"]
+print(food)
+
+print(food[0])
+food[1] = "chiken biryani"
+print(food[1])
+print(food)
+# tuples
+cordinates = (4.21, 9.29)
+print(cordinates)
+print(cordinates[0])
+# sets
+food_set = {"dahi bhallay", "biryani", "Dal", "samosa", "shami", "palak paneer"}
+print(food_set)
+food_set.add('pakora')
+print(food_set)
+# dictionary
+car = {'brand': 'ford', 'model': 'mustang', 'year': 1964}
+print(car)
+print(car['brand'])
+car['year'] = 2023
+print(car['year'])
+
+
+
